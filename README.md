@@ -14,7 +14,7 @@ Para realizar o trabalho foram utilizados os seguintes programas:
 | Intellij IDEA | 2024.1 (Ultimate Edition) | https://www.jetbrains.com/pt-br/idea/download/?section=windows |
 | Apache Maven | 3.9.6 | https://archive.apache.org/dist/maven/maven-3/3.9.6/ |
 | OpenJDK | 22.0.1 | https://jdk.java.net/22/ |
-| antlr4 | 4.10.1 | Instalado via Maven |
+| antlr4 | 4.7.2 | Instalado via Maven |
 
 ## Para compilar o projeto:
 Execute os comandos abaixo no terminal de comandos:
